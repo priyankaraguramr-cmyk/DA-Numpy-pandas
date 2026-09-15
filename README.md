@@ -8,15 +8,15 @@ This repository contains my submission for Python DA Assignment
 
 1. The task was to work with a temperature dataset in NumPy and a transactions dataset in
 
-pandas, and to practice indexing, slicing, filtering and aggregation.
+ pandas, and to practice indexing, slicing, filtering and aggregation.
 
-2.Files in this repo
+ 2.Files in this repo
 
-●Python_DA_Assignment_1_Numpy_and_Pandas.ipynb - the main notebook with all the tasks and outputs
+ ●Python_DA_Assignment_1_Numpy_and_Pandas.ipynb - the main notebook with all the tasks and outputs
 
-●README.md - this file
+ ●README.md - this file
 
-What is covered
+ What is covered
 
 NumPy part:
 
