@@ -60,11 +60,11 @@ How to run
 
 ●Requires numpy and pandas, both come pre-installed in Colab
 
-Tools used
+Tools used:
 
 Python 3, NumPy, Pandas, Jupyter Notebook / Google Colab.
 
-Notes
+Notes:
 
 All outputs match what was asked for in the assignment sheet. Ran the notebook fully before submitting to
 
