@@ -6,7 +6,7 @@ About this assignment
 
 This repository contains my submission for Python DA Assignment 
 
-1. The task was to work with a temperature dataset in NumPy and a transactions dataset in
+1.The task was to work with a temperature dataset in NumPy and a transactions dataset in
 
  pandas, and to practice indexing, slicing, filtering and aggregation.
 
